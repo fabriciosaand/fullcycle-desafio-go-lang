@@ -1,7 +1,8 @@
 # Desafios Full Cycle
 ## Desafio Go
 ### Objetivo do desafio
-    Gerar imagem docker na linguagem Golang que quando executada imprima no console a mensagem'Code.education Rocks!'
+    Gerar imagem docker na linguagem Golang que quando executada imprima no console a mensagem
+    'Code.education Rocks!'
 ### Pré-requisito
     Docker 
 ### Repositório da imagem
